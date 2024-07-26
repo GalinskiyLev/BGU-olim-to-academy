@@ -9,4 +9,4 @@ def steps(n):
     return steps(n-1) + steps(n-2)
 
 
-print(steps(5))
+print(steps(int(input())
